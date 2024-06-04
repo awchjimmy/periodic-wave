@@ -17,5 +17,8 @@ Find trading pairs with low or zero transaction fees, so fees don't eat up your 
 3. Server operating costs: $60 per year.
 4. Returns - costs: ($365 - $60) / $10,000 ≈ 3%.
 
+### Why Not Choose Staking/Flexible Savings...?
+Consider this: What if you could perform arbitrage multiple times a day? What if other financial products cease to offer high returns?
+
 ### Order History
 [Order History](https://docs.google.com/spreadsheets/d/1CymlgyBs_0JJKBhThmBrkfnKz5ASsbHT3nMJgmzlN9w/edit?usp=sharing)
