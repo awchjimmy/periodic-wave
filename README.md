@@ -20,5 +20,27 @@ Find trading pairs with low or zero transaction fees, so fees don't eat up your 
 ### Why Not Choose Staking/Flexible Savings...?
 Consider this: What if you could perform arbitrage multiple times a day? What if other financial products cease to offer high returns?
 
+----
+
+### Example Setup
+```sh
+# install virtual env
+$ python -m venv venv
+
+# install dependencies using pip
+$ venv/bin/pip install -r requirements.txt
+
+# fill in the bybit api keys
+# buy.py
+# sell.py
+
+# run buy.py
+$ venv/bin/python buy.py
+
+# run sell.py
+$ venv/bin/python sell.py
+
+```
+
 ### Order History
 [Order History](https://docs.google.com/spreadsheets/d/1CymlgyBs_0JJKBhThmBrkfnKz5ASsbHT3nMJgmzlN9w/edit?usp=sharing)
