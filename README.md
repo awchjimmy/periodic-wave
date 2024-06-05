@@ -10,7 +10,7 @@ Stablecoins are preferred because their prices are designed to return to a 1:1 p
 ### Transaction Fees?
 Find trading pairs with low or zero transaction fees, so fees don't eat up your profits.
 
-### What is the estimated APY?
+### What is the estimated APR?
 
 1. Initial Funds: $10,000, earning $1 per arbitrage.
 2. Arbitrage once per day, 365 times a year, earning $365.
