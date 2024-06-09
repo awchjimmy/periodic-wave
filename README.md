@@ -42,5 +42,5 @@ $ venv/bin/python sell.py
 
 ```
 
-### Order History
-[Order History](https://docs.google.com/spreadsheets/d/1CymlgyBs_0JJKBhThmBrkfnKz5ASsbHT3nMJgmzlN9w/edit?usp=sharing)
+### Assets Snapshot
+[Assets Snapshot](https://docs.google.com/spreadsheets/d/1CymlgyBs_0JJKBhThmBrkfnKz5ASsbHT3nMJgmzlN9w/edit#gid=34755700)
